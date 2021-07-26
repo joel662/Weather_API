@@ -1,2 +1,2 @@
 # Weather_API
-Shows the weather of the city 
+Shows the weather , temperature , wind speed etc of the city that is entered 
